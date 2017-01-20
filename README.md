@@ -7,4 +7,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pellentesque leo 
 
 #### Alaotsikko
 
-[testi wikisivu](www.optima.jamk.fi)
+[testi wikisivu](https://optima.jamk.fi/)
