@@ -2,9 +2,10 @@
 
 ![](https://www.jamk.fi/globalassets/tietoa-jamkista--about-jamk/materiaalit-esitteet-asiakaslehdet-ja-logot/jamkin-logot/jamk_fi--tunnus/jamkfi_tunnus_sininen_englanti.png)
 
+Testit | Results
 ---|---
 test | ok
-test | fail
+test2 | fail
 
 ## Alaotsikko
 
